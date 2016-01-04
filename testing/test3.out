@@ -1,0 +1,30 @@
+DB61B System.  Version 1.0
+Loaded students.db
+Loaded enrolled.db
+Loaded schedule.db
+Search results:
+  F EECS
+  S EECS
+Search results:
+  105 Brown Shana S EECS
+  104 Armstrong Thomas F EECS
+  101 Knowles Jason F EECS
+Search results:
+  Armstrong Thomas B+
+  Knowles Jason B+
+  Brown Shana B+
+Search results:
+  Xavier Jonathan B+ 21001 LSUnd
+  Brown Shana B+ 21229 EECS
+  Xavier Jonathan B+ 21105 LSUnd
+  Brown Shana B+ 21001 EECS
+  Xavier Jonathan B+ 21005 LSUnd
+  Xavier Jonathan B+ 21229 LSUnd
+  Brown Shana B+ 21105 EECS
+  Brown Shana B+ 21005 EECS
+Search results:
+  102 B+
+  103 B+
+  104 B+
+  105 B+
+  101 B+

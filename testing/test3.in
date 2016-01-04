@@ -1,0 +1,9 @@
+load students;
+load enrolled;
+load schedule;
+select SemEnter, Major from students where Major = 'EECS';
+select SID, Lastname, Firstname, SemEnter, Major from students where Major = 'EECS';
+select Lastname, Firstname, Grade from students, enrolled where students.Major = 'EECS' and enrolled.Grade > 'B';
+select Lastname, Firstname, Grade, CCN, Major from students, enrolled where enrolled.Grade > 'B' and students.YearEnter != '2003';
+select SID, Grade from enrolled, schedule where schedule.Num = '61B' and enrolled.Grade > 'B';
+quit;
